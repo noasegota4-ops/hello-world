@@ -1,7 +1,7 @@
 ---
 title:"Hello world"
 author:"Noa Šegota"
-date: "30. listopada 2025."
+date:"30. listopada 2025."
 ---
 # Hello-world
 Moj prvi github repozitorij
